@@ -1,3 +1,7 @@
+Tool Used:
+Octoparse 8 , generally used to scrap web data of any type of commercial and non comercial websites. Hence their is a simple example of doing the same on election commission of india.
+
+
 Key Insights:
 
 1.	Understanding Voter Turnout: How many people voted in different areas and what might have influenced voter participation?
